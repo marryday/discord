@@ -6,7 +6,7 @@ const config = require("./config");
 const { Transform } = require("stream");
 const googleSpeech = require("@google-cloud/speech");
 const googleSpeechClient = new googleSpeech.SpeechClient();
-GOOGLE_APPLICATION_CREDENTIALS="google.json";
+// GOOGLE_APPLICATION_CREDENTIALS="google.json";
 
 const answer = [];
 const question = [];

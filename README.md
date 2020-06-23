@@ -19,3 +19,4 @@ Shows you all the text commands.
 
 Invites bot to the voice channel (you have to join first)
 
+All the features written to a specific client, if you want to make your own bot with specific features including voice recognition, dm me
